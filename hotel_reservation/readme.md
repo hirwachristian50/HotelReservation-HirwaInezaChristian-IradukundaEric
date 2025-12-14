@@ -1,7 +1,7 @@
 # Hotel Reservation System
 
 ## Group Members
-- Hirwa Christian – 24RP00849
+- Hirwa Ineza Christian – 24RP00849
 - IRADUKUNDA Eric - 24RP03808 
 
 
@@ -26,7 +26,9 @@ A mini web application to manage hotel rooms and bookings using PHP and MySQL. I
 5. Use sample credentials to login  
 
 ## Screenshots
-![Login Page](screenshot/Screenshot 2025-12-14 195121.png)  
-![Dashboard](screenshot/Screenshot 2025-12-14 195004.png)  
-![Add Room](screenshot/Screenshot 2025-12-14 195019.png)  
-![Bookings List](screenshot/Screenshot 2025-12-14 195031.png)
+![alt text](<screenshot/Screenshot 2025-12-14 195121.png>)
+![alt text](<screenshot/Screenshot 2025-12-14 195004.png>)
+![alt text](<screenshot/Screenshot 2025-12-14 195019.png>)
+![alt text](<screenshot/Screenshot 2025-12-14 195046.png>)
+![alt text](<screenshot/Screenshot 2025-12-14 195031.png>)
+
